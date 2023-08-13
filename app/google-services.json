@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460070691419",
+    "firebase_url": "https://compproject-695e6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "compproject-695e6",
+    "storage_bucket": "compproject-695e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460070691419:android:c7b25dcb89e9a6d8b4d57e",
+        "android_client_info": {
+          "package_name": "com.example.geoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460070691419-qnvqtl1na50jfnq0ifi56keese50vo7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlfXi-cBxp_rqnbAqucmu0__iq2K4Gmj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460070691419-qnvqtl1na50jfnq0ifi56keese50vo7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
